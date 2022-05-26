@@ -10,11 +10,14 @@
 # Desafio de projeto
     
 Desenvolvimento de um app Angular do zero com diversas funcionalidades abordando vários recursos, tais como:
-•	Segurança com autenticação JWT e restrições de acesso baseada em claims.
-•	Diversas operações CRUD consumindo um back-end real.
-•	Tratamento de erros do servidor e na aplicação.
-•	Modularização de todos os módulos com lazy loading e diversas boas práticas.
-•	Utilização de diversos componentes como image-cropper, spinner, toaster, form-masks, bootstrap.
+
+<ul>
+	<li>Segurança com autenticação JWT e restrições de acesso baseada em claims.</li>
+	<li>Diversas operações CRUD consumindo um back-end real.</li>
+	<li>Tratamento de erros do servidor e na aplicação.</li>
+	<li>Modularização de todos os módulos com lazy loading e diversas boas práticas.</li>
+	<li>Utilização de diversos componentes como image-cropper, spinner, toaster, form-masks, bootstrap.</li>
+</ul>
 
 <br> 
 
